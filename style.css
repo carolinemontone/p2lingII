@@ -1,0 +1,136 @@
+.container-fluid#header
+{
+    background-image: url(images/header.png);
+   background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-position: top center;
+    position: relative;
+    
+}
+
+.nav .float-md-right{
+    float: right;
+}
+
+.navbar-header a:visited, a:active, a:hover{
+    color: hotpink;
+    font-size: 50px;
+    font-family: 'Lato';
+}
+
+.nav .float-md-right a:visited, a:active{
+    color: black;
+    font-family: 'Lato';
+}
+
+.nav .float-md-right a:hover{
+    color: hotpink;
+    font-family: 'Lato';
+
+}
+
+
+.nav-link{
+    font-size: 20px!important;
+}
+
+.navbar-header{
+    font-size: 50px!important;
+}
+
+form{
+    width: 100%;
+    margin-left: 1.5rem! important;
+    margin-right: 1.5rem! important;
+}
+
+.mt-6, .my-6 {
+    margin-top: 5rem!important;
+}
+
+.mt-7, .my-7 {
+    margin-top: 8rem!important;
+}
+
+.mt-8, .my-8 {
+    margin-top: 12rem!important;
+    margin-bottom: 12rem!important;
+}
+
+
+.px-6 {
+    margin-left: 6rem!important;
+    margin-right: 14rem! important;
+}
+
+button#form_header{
+    width: 100%;
+    background-color: hotpink;
+}
+
+input{
+    margin-top: 1px! important;
+    margin-bottom: .5rem! important;
+    width: 100%;
+}
+
+h1{
+    font-size: 50px;
+    padding-bottom: 2rem! important;
+    color: black;
+    font-size: 50px;
+    line-height: 1.5;
+    font-weight: 300;
+    font-family: 'Lato';
+}
+.card{
+    border-color: white;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2);
+    border-bottom-left-radius: 3.14;
+    margin-bottom: 3rem! important;
+}
+
+.card-body{
+    font-family: 'Lato';
+    color: black;
+    font-size: 15px;
+    padding-bottom: 0rem! important;
+}
+h3{
+    font-family: 'Lato';
+    color: hotpink;
+    font-size: 50px;
+    text-align: center;
+    padding: auto;
+    
+}
+
+h3{
+    font-family: 'Lato';
+    color: ;
+    text-align: center;
+    padding: auto;
+    
+}
+
+.card-content{
+    text-align: center;
+}
+
+footer{
+    background-color: pink;
+}
+
+footer a:visited, a:active{
+    color: hotpink;
+    font-family: 'Lato';
+}
+
+footer a:hover{
+    color: black;
+    font-size: 16px;
+    font-family: 'Lato';
+
+}
+
+
